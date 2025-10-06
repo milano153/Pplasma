@@ -1132,6 +1132,7 @@ const handleViewMyNfts = async () => {
   {viewerItems.length > 0 && (
     <>
       <div style={{ marginTop: 12, opacity: 0.75 }}>
+<s.SpacerLargeXX />
         {collectionName} {collectionSymbol ? `(${collectionSymbol})` : ""}
       </div>
       <div
