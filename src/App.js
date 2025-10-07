@@ -247,7 +247,7 @@ Plasma Network is a blockchain project designed to enable fast, low-cost, and sc
     },
     {
       title: "I've already minted... now what?",
-      content: `Welcome to our community! now you are part of the world of the Plasma Punks on the Plasma Chain! As a holder you will have access to the presale of our next $PUNKS token which will be used on our future NFT staking. Stay tuned!`
+      content: `Welcome to our community! now you are part of the world of the Plasma Punks on the Plasma Chain! As a holder you will have access to the presale of our next $PPUNKS token which will be used on our future NFT staking. Stay tuned!`
     },
     
   ];
@@ -891,7 +891,7 @@ const handleViewMyNfts = async () => {
         
         GEN 1 includes 1,500 unique male Punks that bring the visual identity of the most stable NFT version of Punks and turn the community into a scalable, on-chain environment.<br /><br />
 
-        Holders of GEN 1 will be able to stake their NFTs to earn $PUNKS, the project utility token. 90% of the mint funds will be used to add liquidity.
+        Holders of GEN 1 will be able to stake their NFTs to earn $PPUNKS, the project utility token. 90% of the mint funds will be used to add liquidity.
 
         GEN 1 is more than just a collectible. It will be a requirement for accessing GEN 2, along with a specific amount of $PUNKS. Together, they form the only path forward. This makes early ownership and participation key for those looking to be part of the next phase.
         </s.TextSubTitle>
